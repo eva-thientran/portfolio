@@ -18,3 +18,4 @@
 
 - [Organizer of Saigon Developer](http://www.meetup.com/Engineers-Saigon/) - Meetup
 - [My Spacker Deck](https://speakerdeck.com/duythien)
+- [My blog](http://ama.phanbook.com) - Tips and Tricks PHP
