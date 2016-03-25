@@ -1,6 +1,6 @@
 # My Portfolio
 
-## Project pass
+### Project pass
 
 - [Phanbook](http://phanbook.com) - The next Q&A sites platform(Phalcon)
 
@@ -14,11 +14,14 @@
 
 - [Greenhousenovels](http://greenhousenovels.com/) - Blog context (Wordpress)
 
-## Mentoring
 
-- [Next]() - [Nhi Tran](https://github.com/stackphysics)
+### Mentoring
 
-## Other
+- [Sntrestaurant](http://sntrestaurant.com) - [Nhi Tran](https://github.com/stackphysics)
+- [Tropictantustin](http://tropictantustin.athosdevelopment.com/) - [Nhi Tran](https://github.com/stackphysics)
+
+
+### Other
 
 - [Organizer of Saigon Developer](http://www.meetup.com/Engineers-Saigon/) - Meetup
 - [My Spacker Deck](https://speakerdeck.com/duythien)
