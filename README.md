@@ -4,6 +4,8 @@
 
 - [Phanbook](http://phanbook.com) - The next Q&A sites platform(Phalcon)
 
+- [FoxOMS](https://www.foxoms.com/)- Resource Scheduling Software for Film, TV and Creative Businesses
+
 - [Eurocham](http://www.eurochamvn.org/) - The Portal European Chamber of Commerce in Vietnam (Drupal)
 
 - [Phalcon Tips](http://phalcontip.com) - Tips and Tricks for Phalcon PHP(Phalcon)
