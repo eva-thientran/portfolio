@@ -20,6 +20,8 @@
 
 - [Forum Phalcon Vietnam](http://forum.phanbook.com) - Forum (Phalcon)
 
+- [Blog SaigonPHP](http://blog.saigonphp.com) - Blog context (Phanbook)
+
 
 ### Mentoring
 
